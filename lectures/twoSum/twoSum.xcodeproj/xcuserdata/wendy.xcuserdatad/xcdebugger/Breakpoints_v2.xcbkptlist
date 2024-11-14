@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8A315E8E-729B-4573-9B4B-2C6EB5C49FD0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A89F085C-7661-45FF-ADBA-F86580D474E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "twoSum/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33B54877-2D9B-4553-9F7A-CCC0C8B79273"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "twoSum/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "Solution::twoSum(nums, target)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33B54877-2D9B-4553-9F7A-CCC0C8B79273 - 5efb74cd802b3f21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Solution::twoSum(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;, int)"
+                  moduleName = "twoSum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wendy/Desktop/school/uml/2023-2024%20%E2%80%94%20sophomore%20year%20%20/fall%202023/computing%20iii/twoSum/twoSum/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "33B54877-2D9B-4553-9F7A-CCC0C8B79273 - 5efb74cd802b3f21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Solution::twoSum(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;, int)"
+                  moduleName = "twoSum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wendy/Desktop/school/uml/2023-2024%20%E2%80%94%20sophomore%20year%20%20/fall%202023/computing%20iii/twoSum/twoSum/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D55ADD1-1362-474E-B512-E1DCD24F4753"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "twoSum/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
